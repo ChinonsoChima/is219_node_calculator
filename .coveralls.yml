@@ -1,3 +1,4 @@
+require 'coveralls'
 SERVICE_NAME: travis-ci
 repo_token: 55TQ6KE90DSt56htMgoXCORlLQLX92p4y
 COVERALLS_GIT_BRANCH: master
