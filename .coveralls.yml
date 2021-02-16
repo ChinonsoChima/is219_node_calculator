@@ -1,0 +1,3 @@
+service_name: travis-pro
+repo_token: 55TQ6KE90DSt56htMgoXCORlLQLX92p4y
+COVERALLS_GIT_BRANCH: master
